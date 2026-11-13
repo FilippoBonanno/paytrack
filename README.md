@@ -10,6 +10,16 @@ App per tenere sotto controllo le finanze personali: pagamenti ricorrenti, spese
 
 **Stack:** React 18 · Tailwind CSS · Recharts · PWA (service worker, offline) · PHP 8 (API REST, JWT) · MySQL · Android con Capacitor 5 + codice nativo Java · Web Push (VAPID)
 
+<p>
+  <img src="docs/img/dashboard-mobile.jpg" width="24%" alt="Dashboard su telefono">
+  <img src="docs/img/calendar-mobile.jpg" width="24%" alt="Calendario su telefono">
+  <img src="docs/img/charts-desktop.jpg" width="49%" alt="Grafici e statistiche">
+</p>
+
+![Dashboard su desktop](docs/img/dashboard-desktop.jpg)
+
+<sub>Screenshot da un'installazione locale con dati di prova.</sub>
+
 ## Cosa fa
 - **Ricorrenti:** abbonamenti, rate, utenze, affitto, assicurazioni, con promemoria prima della scadenza.
 - **Spese giornaliere** per categoria (supermercato, farmacia…), **carburante** e **bollette**.
